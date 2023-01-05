@@ -4,7 +4,7 @@ import time
 
 
 web = webdriver.Chrome()
-web.get("https://docs.google.com/forms/d/e/1FAIpQLScMNAMFQd9IJLd4s1YwPYsv5ckogWP24ptkU1Jhwizn8XMD3g/viewform?vc=0&c=0&w=1&flr=0")
+web.get("https://docs.google.com/forms/d/e/1FAIpQLScMNAMFQd9IJLd4s1YwPYsv5ckogWP24ptkU1Jhwizn8XMD3g/viewform?vc=0&c=0&w=1&flr=0") #------> url of the form
 
 time.sleep(5)
 
